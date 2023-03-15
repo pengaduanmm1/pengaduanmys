@@ -1,15 +1,10 @@
-link: https://pengaduanmasyarakatmega.000webhostapp.com/
+link webhost: https://pengaduanmasyarakatmega.000webhostapp.com/ 
+Link Github: 
 Aplikasi Layanan Masyarakat
-Account
-=======================
-Username : admin
-Password : admin
 
-Username : petugas
-Password : petugas
+Nama: Mega Riani Dewi
+Kelas: XII RPL 1
+SMK Mahardhika
 
-Username : masyarakat
-Password : masyarakat
-=======================
 
 
